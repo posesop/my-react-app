@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`has the correct title 1`] = `
+<div
+  className="Item"
+>
+  <p>
+    Soy un objeto
+  </p>
+</div>
+`;
